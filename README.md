@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XuhelinCabrera
 - 👀 I’m interested in robotics, backend and AI engineering
-- 🌱 I’m currently learning C and unix
+- 🌱 I’m currently learning operating systems 
 - 💞️ I’m looking to collaborate on any new and innovated projects
 
 
